@@ -350,7 +350,7 @@ def run_client(team_name: str, rounds: int, interactive: bool = False) -> None:
 
 if __name__ == "__main__":
     # Change these as you like
-    TEAM_NAME = "TeamClient"
+    TEAM_NAME = "Portland Trail Blazers"
     ROUNDS = 5
     INTERACTIVE = False  # set True if you want manual H/S input
 
